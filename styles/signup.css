@@ -1,0 +1,113 @@
+
+
+#container{
+    width: 450px;
+    height: 650px;
+    border: 1px solid rgb( 204, 202, 202);
+    border-radius: 10px;
+}
+h1{
+    margin-left: -180px;
+    font-family: cursive;
+}
+.label1{
+    margin-left: -300px;
+    font-weight: 900;
+    columns: rgb(61, 60, 60);
+    
+}
+
+.label2{
+    font-weight: 900;
+    color: rgb(61, 60, 60);
+    margin-left: -300px;
+
+    
+   
+}
+.label3{
+    font-weight: 900;
+    color: rgb(61, 60, 60);
+    margin-left: -330px;
+
+    
+   
+}
+.label4{
+    font-weight: 900;
+    color: rgb(61, 60, 60);
+    margin-left: -250px;
+
+    
+   
+}
+#name{
+    width: 370px;
+    height: 29px;
+    margin-top: 10px;
+}
+#email{
+    width: 370px;
+    height: 29px;
+    margin-top: 10px;
+
+}
+#pass{
+    width: 370px;
+    height: 29px;
+    margin-top: 10px;
+}
+
+#repass{
+    width: 370px;
+    height: 29px;
+    margin-top: 10px;
+}
+.passlimit{
+    margin-left: -120px;
+    
+}
+a{
+    text-decoration: none;
+}
+#signin{
+    background-color: rgb(250,179,46);
+    border: none;
+    width: 280px;
+    padding: 15px 92px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.s{
+    margin-left: -130px;
+}
+.b{
+    color: grey;
+    margin-left: 90px;
+}
+
+
+
+.new{
+    
+    cursor: pointer;
+    height: 50px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+   
+    
+}
+.n{
+    background-color: rgb(250,179,46);
+    width: 370px;
+
+    font-size: 23px;
+    margin-top: 20px;
+    height: 45px;
+    color: #fff;
+}
