@@ -1,0 +1,120 @@
+#container{
+    width: 450px;
+    height: 550px;
+    border: 1px solid rgb( 204, 202, 202);
+    border-radius: 10px;
+}
+h1{
+    margin-left: -180px;
+    font-family: cursive;
+}
+.label1{
+    margin-left: -60px;
+    font-weight: 900;
+    columns: rgb(61, 60, 60);
+}
+#email{
+    /* margin-left: -50px; */
+    width: 270px;
+    height: 29px;
+    margin-top: 10px;
+
+}
+.label2{
+    /* margin-left: -30px; */
+    font-weight: 900;
+    color: rgb(61, 60, 60);
+    
+   
+}
+#pass{
+    width: 270px;
+    height: 29px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+#signin{
+    background-color: rgb(250,179,46);
+    border: none;
+    width: 280px;
+    padding: 15px 92px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    /* margin-left: -px; */
+    cursor: pointer;
+}
+p{
+    /* margin-left: -40px; */
+}
+.s{
+    margin-left: -130px;
+}
+.b{
+    color: grey;
+    margin-left: 90px;
+}
+.b1{
+    /* background-color: rgb(250,179,46); */
+    border: 1px solid black
+    width: 280px;
+    padding: 15px 92px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+
+.pop{
+    position: relative;
+    margin-top: 1.5rem;
+    display: inline-block;
+}
+.popover{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    left: -15px;
+    transform: translate(50px,50px);
+    background-color: #fff;
+    padding: 1.5rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
+    width: 300px;
+}
+.pop:hover .popover{
+    z-index: 10;
+    opacity: 1;
+    visibility: visible;
+    transform: translate(0, -20px);
+    transition: all 0.5s cubic-bezier(0.75, -0.02,0.2,0.97);
+}
+.popover:before{
+    position: absolute;
+    z-index: -1;
+    content: "";
+    center: calc(50% -10px);
+
+}
+.new{
+    
+   
+    cursor: pointer;
+    height: 50px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    
+    
+}
+.n{
+    font-size: 13px;
+    margin-left: 120px;
+    height: 45px;
+    color: #fff;
+}
+
