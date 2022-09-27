@@ -13,6 +13,12 @@ About this project: This is a Individual project, built by me in the Construct W
 
 ---------------------------------------------------------------------------
 
+## Description
+
+Amazon Prime Video, part of the Amazon Video on-demand internet video service, provides a selection of original content and licensed movies and TV shows that can be streamed or downloaded as part of the Amazon Prime subscription.
+
+---------------------------------------------------------------------------
+
 **Deployment**
 To deploy this project run https://pavanambulkar.github.io/PRIME_GITHUB_PROJECT/
 
