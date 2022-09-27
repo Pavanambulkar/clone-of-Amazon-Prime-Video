@@ -8,15 +8,16 @@ Unit-2 Construct Week Project
 ## About
 
 on Our Website, find shows and movies from your favorite channels all in one place. Enjoy with an add-on subscription to Channels of your choice.
+I used HTML, Css and simple javascript in this project and also used css library like Bootstrap.
+About this project: This is a Individual project, built by me in the Construct Week - Unit 2 at Masai School.
 
-
+---------------------------------------------------------------------------
 
 **Deployment**
 To deploy this project run https://pavanambulkar.github.io/PRIME_GITHUB_PROJECT/
 
-About this project: This is a Individual project, built by me in the Construct Week - Unit 2 at Masai School.
-
 ---------------------------------------------------------------------------
+
 
 Some Glimpse and Screenshots of our Website:
 ----------------------------------------------------------------------------
