@@ -20,7 +20,7 @@ Amazon Prime Video, part of the Amazon Video on-demand internet video service, p
 ---------------------------------------------------------------------------
 
 **Deployment**
-To deploy this project run https://pavanambulkar.github.io/PRIME_GITHUB_PROJECT/
+To deploy this project run https://pavanambulkar.github.io/clone-of-Amazon-Prime-Video/
 
 ---------------------------------------------------------------------------
 
